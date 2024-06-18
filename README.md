@@ -24,44 +24,49 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 
 # Análisis Exploratório (EDA) 📖 
 
-![output](https://github.com/GabrielChavezC/Store_Sales_Analysis_SQL/assets/155968191/2fc8f48f-2daf-4e43-8e49-e9cd9ed37e72)
-
 - En nuestro box plot tenemos demasiados outliers pero esto corresponde a producciones muy largas que tienen valores demasiado altos.
+
+![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/boxplot-runtimeMinutes.jpg)
+
 
 - Mientras que el Histograma podemos observar que la mayor cantidad de producción se encuentra a partir del año 2000.
 
-![boxplot](https://github.com/GabrielChavezC/Store_Sales_Analysis_SQL/assets/155968191/ae861238-c44d-4bc4-a1d2-fff80c74b073)
+
+![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/histograma-startYear.jpg)
 
 -La mayoría de las películas y series tienen una calificación promedio entre 6 y 8.
+
 -Los bigotes del boxplot indican que la mayoría de las películas y series tienen menos de 60 votos, pero hay una variabilidad considerable en el número de votos
 
-![boxplot](https://github.com/GabrielChavezC/Store_Sales_Analysis_SQL/assets/155968191/ae861238-c44d-4bc4-a1d2-fff80c74b073)
+![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/averageRating.jpg)
 
 -Hay una gran cantidad de outliers en el extremo superior, lo que indica que algunas películas tienen presupuestos excepcionalmente altos en comparación con la mayoría.
 La mediana del presupuesto es bastante baja, lo que sugiere que la mayoría de las producciones tienen presupuestos moderados.
+
+![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/budget.jpg)
 
 
 #  **Preguntas y respuestas** ❔
 
 ## **Pregunta 1: ¿Cual es la evolución del rating por tipo de contenido?** 👔 👗
 
-![pregunta1](https://github.com/civvic1/Movie_AnalysisL/images/155968191/2d0003c8-fdae-44f7-897d-e56a77f44556)
+![pregunta1](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-1.jpg)
 
 ## **Pregunta 2: ¿Cual es el rating promedio por género?** 💴
 
-![pregunta2](https://github.com/civvic1/Movie_AnalysisL/images/155968191/16005215-6e2f-4660-9b66-b6f8acb64589)
+![pregunta2](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-2.jpg)
 
 ## **Pregunta 3:¿Cuáles son los géneros que proporcionan mayor ROI?** 👗
 
-![pregunta3](https://github.com/civvic1/Movie_AnalysisL/images/155968191/f1c319ef-e99f-4f28-b8e2-edfcbb35c1bd)
+![pregunta3](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-3.jpg)
 
 ## **Pregunta 4: ¿Cuáles son los países con mayor producción de contenido?** 🙋
 
-![pregunta4](https://github.com/civvic1/Movie_AnalysisL/images/155968191/db6f3524-b8eb-417f-bd25-23ede431152b)
+![pregunta4](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-4.jpg)
 
 ## **Pregunta 5: ¿Cuáles son las películas con mayor número de votos?** 🌏
 
-![pregunta5](https://github.com/civvic1/Movie_AnalysisL/images/155968191/6d1f0d87-72b4-4ad3-8d5f-6026dd79ffb1)
+![pregunta5](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-5.jpg)
 
 
 # Conclusión 💯
