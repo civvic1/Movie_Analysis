@@ -35,6 +35,7 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/histograma-startYear.jpg)
 
 -La mayoría de las películas y series tienen una calificación promedio entre 6 y 8.
+
 -Los bigotes del boxplot indican que la mayoría de las películas y series tienen menos de 60 votos, pero hay una variabilidad considerable en el número de votos
 
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/averageRating.jpg)
