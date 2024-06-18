@@ -30,7 +30,7 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 
 - Mientras que el Histograma podemos observar que la mayor cantidad de producción se encuentra a partir del año 2000.
 
-![boxplot](https://github.com/GabrielChavezC/Store_Sales_Analysis_SQL/assets/155968191/ae861238-c44d-4bc4-a1d2-fff80c74b073)
+![boxplot](https://github.com/civvic1/Movie_Analysis/blob/main/images/averageRating.jpg)
 
 -La mayoría de las películas y series tienen una calificación promedio entre 6 y 8.
 -Los bigotes del boxplot indican que la mayoría de las películas y series tienen menos de 60 votos, pero hay una variabilidad considerable en el número de votos
