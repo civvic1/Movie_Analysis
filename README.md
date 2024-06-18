@@ -50,23 +50,23 @@ La mediana del presupuesto es bastante baja, lo que sugiere que la mayoría de l
 
 ## **Pregunta 1: ¿Cual es la evolución del rating por tipo de contenido?** 👔 👗
 
-![pregunta1](https://github.com/civvic1/Movie_AnalysisL/images/155968191/2d0003c8-fdae-44f7-897d-e56a77f44556)
+![pregunta1](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-1.jpg)
 
 ## **Pregunta 2: ¿Cual es el rating promedio por género?** 💴
 
-![pregunta2](https://github.com/civvic1/Movie_AnalysisL/images/155968191/16005215-6e2f-4660-9b66-b6f8acb64589)
+![pregunta2](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-2.jpg)
 
 ## **Pregunta 3:¿Cuáles son los géneros que proporcionan mayor ROI?** 👗
 
-![pregunta3](https://github.com/civvic1/Movie_AnalysisL/images/155968191/f1c319ef-e99f-4f28-b8e2-edfcbb35c1bd)
+![pregunta3](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-3.jpg)
 
 ## **Pregunta 4: ¿Cuáles son los países con mayor producción de contenido?** 🙋
 
-![pregunta4](https://github.com/civvic1/Movie_AnalysisL/images/155968191/db6f3524-b8eb-417f-bd25-23ede431152b)
+![pregunta4](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-4.jpg)
 
 ## **Pregunta 5: ¿Cuáles son las películas con mayor número de votos?** 🌏
 
-![pregunta5](https://github.com/civvic1/Movie_AnalysisL/images/155968191/6d1f0d87-72b4-4ad3-8d5f-6026dd79ffb1)
+![pregunta5](https://github.com/civvic1/Movie_Analysis/blob/main/images/pregunta-5.jpg)
 
 
 # Conclusión 💯
