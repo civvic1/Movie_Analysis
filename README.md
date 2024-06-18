@@ -32,14 +32,17 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 - Mientras que el Histograma podemos observar que la mayor cantidad de producción se encuentra a partir del año 2000.
 
 
-![boxplot](https://github.com/civvic1/Movie_Analysis/blob/main/images/histograma-startYear.jpg)
+![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/histograma-startYear.jpg)
 
 -La mayoría de las películas y series tienen una calificación promedio entre 6 y 8.
 -Los bigotes del boxplot indican que la mayoría de las películas y series tienen menos de 60 votos, pero hay una variabilidad considerable en el número de votos
 
-![boxplot](https://github.com/civvic1/Movie_Analysis/blob/main/images/averageRating.jpg)
+![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/averageRating.jpg)
+
 -Hay una gran cantidad de outliers en el extremo superior, lo que indica que algunas películas tienen presupuestos excepcionalmente altos en comparación con la mayoría.
 La mediana del presupuesto es bastante baja, lo que sugiere que la mayoría de las producciones tienen presupuestos moderados.
+
+![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/budget.jpg)
 
 
 #  **Preguntas y respuestas** ❔
