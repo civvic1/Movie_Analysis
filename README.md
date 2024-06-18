@@ -27,7 +27,7 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 
 # Análisis Exploratório (EDA) 📖 
 
-- En nuestro box plot tenemos demasiados outliers pero esto corresponde a producciones muy largas que tienen valores demasiado altos.
+- En nuestro box plot tenemos demasiados outliers pero esto corresponde a producciones de larga duración con valores muy altos.
 
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/boxplot-runtimeMinutes.jpg)
 
