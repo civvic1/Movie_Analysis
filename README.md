@@ -1,5 +1,5 @@
 # Movie_Analysis📊
-Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica
+Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica.
 
 
 
@@ -39,7 +39,7 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 
 -La mayoría de las películas y series tienen una calificación promedio entre 6 y 8.
 
--Los bigotes del boxplot indican que la mayoría de las películas y series tienen menos de 60 votos, pero hay una variabilidad considerable en el número de votos
+-Los bigotes del boxplot indican que la mayoría de las películas y series tienen menos de 60 votos, pero hay una variabilidad considerable en el número de votos.
 
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/averageRating.jpg)
 
