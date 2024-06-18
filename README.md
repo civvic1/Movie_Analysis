@@ -1,9 +1,12 @@
 # Movie_Analysis📊
-Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica
+Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica.
 
 
 
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Seaborn-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## Objetivo 📋
 
@@ -36,7 +39,7 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 
 -La mayoría de las películas y series tienen una calificación promedio entre 6 y 8.
 
--Los bigotes del boxplot indican que la mayoría de las películas y series tienen menos de 60 votos, pero hay una variabilidad considerable en el número de votos
+-Los bigotes del boxplot indican que la mayoría de las películas y series tienen menos de 60 votos, pero hay una variabilidad considerable en el número de votos.
 
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/averageRating.jpg)
 
@@ -46,7 +49,7 @@ La mediana del presupuesto es bastante baja, lo que sugiere que la mayoría de l
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/budget.jpg)
 
 
-#  **Preguntas y respuestas** ❔
+#  **Preguntas y respuestas** 
 
 ## **Pregunta 1: ¿Cual es la evolución del rating por tipo de contenido?** 👔 👗
 
