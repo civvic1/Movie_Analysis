@@ -46,7 +46,7 @@ La mediana del presupuesto es bastante baja, lo que sugiere que la mayoría de l
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/budget.jpg)
 
 
-#  **Preguntas y respuestas** ❔
+#  **Preguntas y respuestas** 
 
 ## **Pregunta 1: ¿Cual es la evolución del rating por tipo de contenido?** 👔 👗
 
