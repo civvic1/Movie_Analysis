@@ -10,7 +10,7 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 
 ## Objetivo 📋
 
-Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica. Como científico de datos especializado en la industria del entretenimiento, has sido convocado para analizar estos datos y ofrecer insights que guíen sus decisiones y respondan a las siguientes preguntas clave:
+Una plataforma de streaming para el hogar, con presencia en todo el mundo, necesita impulsar su rendimiento utilizando datos de tendencias en el sector de manera estratégica. Como científico de datos especializado en la industria del entretenimiento, he sido convocado para analizar estos datos y ofrecer insights que guíen sus decisiones y respondan a las siguientes preguntas clave:
 ### **Preguntas** ❓
 
 1. ¿Cual es la evolución del rating por tipo de contenido? 📉
@@ -27,12 +27,12 @@ Una plataforma de streaming para el hogar, con presencia en todo el mundo, neces
 
 # Análisis Exploratório (EDA) 📖 
 
-- En nuestro box plot tenemos demasiados outliers pero esto corresponde a producciones muy largas que tienen valores demasiado altos.
+- En nuestro box plot tenemos demasiados outliers pero esto corresponde a producciones de larga duración con valores muy altos.
 
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/boxplot-runtimeMinutes.jpg)
 
 
-- Mientras que el Histograma podemos observar que la mayor cantidad de producción se encuentra a partir del año 2000.
+- Mientras que en el Histograma podemos observar que la mayor cantidad de producción se encuentra a partir del año 2000.
 
 
 ![output](https://github.com/civvic1/Movie_Analysis/blob/main/images/histograma-startYear.jpg)
